@@ -12,6 +12,7 @@
     <module>intern</module>
       <module>finance</module>
     <module>eureka-server</module>
+    <module>apigw</module>
   </modules>
 
   <name>interieur</name>

@@ -7,7 +7,6 @@ import java.util.List;
 
 @Slf4j
 @RestController
-@CrossOrigin(origins="*")
 @RequestMapping("api/avis")
 public record AvisDeRechercheController(AvisService avisService) {
     @PostMapping
